@@ -1,0 +1,41 @@
+body {
+	background-image: url(love.jpg
+);
+}
+
+h1 {
+	text-align: center;
+	color: white;
+}
+
+p {
+	font-family: caladea;
+	color: pink;
+	font-size: 18px;
+}
+
+h2 {
+	text-align: justify;
+	color: blue;
+}
+
+blockquote{
+	background-color: white;
+	color: black;
+	text-align: center;
+}
+
+ul {
+	font-family: caladea;
+	font-size: 18px;
+	color: white;
+}
+
+img{
+	border-radius: 50%;
+	width: 400px;
+	height: 200px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
